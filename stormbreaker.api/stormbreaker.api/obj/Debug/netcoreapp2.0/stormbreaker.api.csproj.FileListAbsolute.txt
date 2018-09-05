@@ -1,0 +1,11 @@
+C:\Development\stormbreaker\stormbreaker.api\stormbreaker.api\bin\Debug\netcoreapp2.0\stormbreaker.api.deps.json
+C:\Development\stormbreaker\stormbreaker.api\stormbreaker.api\bin\Debug\netcoreapp2.0\stormbreaker.api.runtimeconfig.json
+C:\Development\stormbreaker\stormbreaker.api\stormbreaker.api\bin\Debug\netcoreapp2.0\stormbreaker.api.runtimeconfig.dev.json
+C:\Development\stormbreaker\stormbreaker.api\stormbreaker.api\bin\Debug\netcoreapp2.0\stormbreaker.api.dll
+C:\Development\stormbreaker\stormbreaker.api\stormbreaker.api\bin\Debug\netcoreapp2.0\stormbreaker.api.pdb
+C:\Development\stormbreaker\stormbreaker.api\stormbreaker.api\obj\Debug\netcoreapp2.0\stormbreaker.api.csproj.CoreCompileInputs.cache
+C:\Development\stormbreaker\stormbreaker.api\stormbreaker.api\obj\Debug\netcoreapp2.0\stormbreaker.api.AssemblyInfoInputs.cache
+C:\Development\stormbreaker\stormbreaker.api\stormbreaker.api\obj\Debug\netcoreapp2.0\stormbreaker.api.AssemblyInfo.cs
+C:\Development\stormbreaker\stormbreaker.api\stormbreaker.api\obj\Debug\netcoreapp2.0\stormbreaker.api.dll
+C:\Development\stormbreaker\stormbreaker.api\stormbreaker.api\obj\Debug\netcoreapp2.0\stormbreaker.api.pdb
+C:\Development\stormbreaker\stormbreaker.api\stormbreaker.api\obj\Debug\netcoreapp2.0\stormbreaker.api.csprojAssemblyReference.cache
